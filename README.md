@@ -20,3 +20,17 @@ project/
 │── data/311-service-requests-subset.csv
 │── README.md
 
+
+---
+
+## ⚙️ Tech Stack
+- **Languages/Libraries:** Python, Pandas, NumPy, scikit‑learn, NLTK, TextBlob, WordCloud, Matplotlib  
+- **Models:** Logistic Regression, Naive Bayes, TF‑IDF  
+- **Deployment:** FastAPI, Uvicorn  
+
+---
+
+## 🚀 How to Run
+1. **Install dependencies:**
+   ```bash
+   pip install pandas numpy scikit-learn matplotlib seaborn nltk textblob wordcloud fastapi uvicorn joblib
