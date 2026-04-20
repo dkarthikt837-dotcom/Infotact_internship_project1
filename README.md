@@ -13,12 +13,12 @@ It follows a structured **4-week roadmap**:
 
 
 ## 📂 Structure
-project/
-│── notebooks/ (Week1–3 Jupyter notebooks)
-│── app/main.py (FastAPI app)
-│── models/ (saved .pkl models)
-│── data/311-service-requests-subset.csv
-│── README.md
+project/    
+│── notebooks/ (Week1–3 Jupyter notebooks)      
+│── app/main.py (FastAPI app)    
+│── models/ (saved .pkl models)    
+│── data/311-service-requests-subset.csv    
+│── README.md    
 
 
 ---
